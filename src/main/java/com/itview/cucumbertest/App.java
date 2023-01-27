@@ -1,4 +1,4 @@
-package com.itview.cucumbertest.selenium_cucumber_test;
+package com.itview.cucumbertest;
 
 /**
  * Hello world!
